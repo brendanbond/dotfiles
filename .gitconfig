@@ -1,0 +1,12 @@
+[user]
+	email = brendanbond@gmail.com
+	name = Brendan J Bond
+[core]
+	excludesFile = /Users/brendanjbond/.dotfiles/.gitignore_global
+	pager = delta
+
+[interactive]
+	navigate = true
+
+[merge]
+	conflictstyle = zdiff3
