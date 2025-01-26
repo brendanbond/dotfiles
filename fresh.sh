@@ -32,8 +32,5 @@ mkdir $HOME/Projects
 # Clone Github repositories
 ./clone.sh
 
-# Install MacOS developer tools
-xcode-select --install
-
 # Set macOS preferences - we will run this last because this will reload the shell
 source ./.macos
