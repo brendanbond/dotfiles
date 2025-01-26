@@ -5,6 +5,7 @@ tap 'homebrew/bundle'
 brew 'awscli'
 brew 'bash' # Latest Bash version
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'delta'
 brew 'ffmpeg'
 brew 'gh'
 brew 'git'
@@ -15,6 +16,7 @@ brew 'pkg-config'
 brew 'svn' # Needed to install fonts
 
 # Development
+brew 'monogosh'
 brew 'n'
 
 # Apps
